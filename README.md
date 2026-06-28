@@ -18,7 +18,7 @@ My goal is to transition into a Security Operations Centre (SOC) Analyst role, w
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM-Based Threat Detection (Authentication & RDP Analysis) | <a href="https://google.com">RDP Brute Force Detection</a>|
+| SIEM-Based Threat Detection (Authentication & RDP Analysis) | <a href="https://github.com/GeorgeW142/RDP-Brute-Force-Detection-Lab/blob/main/README.md">RDP Brute Force Detection</a>|
 
 
 ## Tools
